@@ -1,4 +1,4 @@
 token:
   expiration_time: 86400000
-  secret: token_secret_default
+  secret: token_secret_prod
 
